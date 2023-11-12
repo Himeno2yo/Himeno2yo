@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+
+### 🔭 I'm currently working on high redshift galaxies and AGNs
+
+### 🌱 Learning using ML and other interesting tools on my reaserch
+
+### 📫 How to reach me?: Maybe NO
+
 
 <!--
 **Himeno2yo/Himeno2yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
