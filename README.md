@@ -1,11 +1,9 @@
-### Hi there 👋 
+## Hi there 👋 
 
-### 🔭 I'm currently working on high redshift galaxies and protoclusters
-
-### 🌱 Learning using ML and other interesting tools on my reaserch
-
-### 📫 How to reach me?: Maybe NO
-
+- 🔭 I'm currently working on high redshift galaxies and protoclusters, interested in SMBH and HOT Dogs.
+- 🌱 Learning using ML and other interesting tools on my reaserch
+- 📫 How to reach me?: yimingyangphy@gmail.com
+- ⚡ Fun fact: We don't know what we don't know.
 
 <!--
 **Himeno2yo/Himeno2yo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
