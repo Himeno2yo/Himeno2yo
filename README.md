@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on high redshift galaxies and protoclusters, interested in SMBH and HOT Dogs.
 - 🌱 Learning using ML and other interesting tools on my reaserch
-- 📫 How to reach me?: yimingyangphy@gmail.com
+- 📫 How to reach me?: yimingyangphy[at]gmail.com
 - ⚡ Fun fact: We don't know what we don't know.
 
 <!--
